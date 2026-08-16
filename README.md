@@ -30,7 +30,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Try The Expense Roaster Live](YOUR_STREAMLIT_DEPLOYMENT_URL)**
+🔗 **[Try The Expense Roaster Live](https://expense-tracker-appzf5afumarazzd6jkmdy4.streamlit.app/)**
 
 > Experience the AI-powered expense analysis dashboard directly in your browser.
 

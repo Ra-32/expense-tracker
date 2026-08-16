@@ -8,5 +8,5 @@ python-dotenv
 openpyxl
 pytest
 groq
-kaleido
 pillow
+plotly-get-chrome
