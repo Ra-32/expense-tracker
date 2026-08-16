@@ -1,0 +1,20 @@
+[project]
+name = "expense-tracker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit",
+    "pandas>=2.2.0",
+    "numpy",
+    "matplotlib",
+    "plotly",
+    "google-generativeai",
+    "python-dotenv",
+    "openpyxl",
+    "pytest",
+    "groq",
+    "kaleido",
+    "pillow"
+]

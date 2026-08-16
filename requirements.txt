@@ -1,0 +1,12 @@
+streamlit
+pandas>=2.2.0
+numpy
+matplotlib
+plotly
+google-generativeai
+python-dotenv
+openpyxl
+pytest
+groq
+kaleido
+pillow
