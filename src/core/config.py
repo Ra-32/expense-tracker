@@ -23,7 +23,7 @@ class Config:
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
     
     # Model Names
-    GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+    GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash")
     GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-70b-versatile")
     OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
     
